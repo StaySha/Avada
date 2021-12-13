@@ -24,8 +24,7 @@ class Jokes():
                     self.good_jokes += 1
                 else:
                     self.bad_jokes +=1
-                # elif len(line) < 60:
-                #     self.bad_jokes += 1
+                
 
 
     def counting(self):
